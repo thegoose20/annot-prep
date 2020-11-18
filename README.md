@@ -5,7 +5,7 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 ### The *DatasetExports* Folder
 
 **Description:**
-The folder includes metadata descriptions extracted from the Centre for Research Collections' online archival catalog using OAI-PMH EAD harvesting.  Metadata descriptions were extracted from four metadata fields: an identifier (<unitid>), Biographical / Historical (<bioghist>), Scope and Contents (<scopecontent>), and Processing Information (<processinfo>).  The descriptions were extracted in October 2020.  The dataset includes five files that will be annotated for instances of gender bias, in an effort to create a gold standard dataset on which an algorithm can be trained to identify and classify gender bias in text.
+The folder includes metadata descriptions extracted from the Centre for Research Collections' online archival catalog using OAI-PMH EAD harvesting.  Metadata descriptions were extracted from four metadata fields: an identifier (`<unitid>`), Biographical / Historical (`<bioghist>`), Scope and Contents (`<scopecontent>`), and Processing Information (`<processinfo>`).  The descriptions were extracted in October 2020.  The dataset includes five files that will be annotated for instances of gender bias, in an effort to create a gold standard dataset on which an algorithm can be trained to identify and classify gender bias in text.
 
 **Data Details:**
 * Date Extracted: October 2020
