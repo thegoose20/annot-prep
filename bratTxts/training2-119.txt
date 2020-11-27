@@ -1,0 +1,13 @@
+ID:Coll-1240
+Collection, Sub-collection, and Item IDs
+'Coll-1240'
+
+Scope and Contents
+"The collection comprises an Edinburgh University medal (bronze) awarded to Charles A. Anderson session 1888-1889, for the Senior Surgery class. The medal is mounted in a small case (Alex'r Kirkwood and Son, Medalists, 9 St. James Square, Edinburgh)."
+
+Biographical / Historical
+'Charles Arthur Anderson studied at Edinburgh University and graduated with the degree of MB CM in 1889. He was registered as a surgeon on 2 August 1889, and in the Medical register for 1889 he is noted as being located at Hillswick, Shetland Islands. His subsequent career saw him in Burnley, Lancashire, from 1900 until around 1927-1928 when he was located in Bridge of Allan, Central Scotland. His name fell from the Medical register after the 1934 edition.'
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+

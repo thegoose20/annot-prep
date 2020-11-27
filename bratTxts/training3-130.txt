@@ -1,0 +1,13 @@
+ID:Coll-1728
+Collection, Sub-collection, and Item IDs
+'2/4', '1728/7/2', '1728/7/3', '2/3', '1728/5', '3/7', '3/8', '1728/2/2', '3/2', '1728/4/4', '3/1', '3/6', 'Coll-1728', '1728/4/6', '1728/1', '1728/2/1/1', '1728/4/8', '2/8', '1728/5/3', '1782/2/1/2', '1728/1/1', '3/4', '1728/3', '2/1', '2/2', '1728/4/2', '1728/4/5', '3/3', '2/6', '1728/4', '2/5', '1728/5/1', '1728/6', '1728/7/1', '1728/4/1', '1728/2', '3/5', '3/9', '2/7', '1728/7', '1728/4/7', '1728/2/1', '1728/4/3'
+
+Scope and Contents
+'The collection contains proofs of A Drunk man looks at the thistle edited by Weston, ms and ts research material for the edition, correspondence with a wide range of people in the literary world and in publishing, newspaper cuttings, journal articles, and other printed ephemera.the Weston'
+
+Biographical / Historical
+"Professor John C. Weston was on the English staff at Amherst, University of Massachusetts. He became an emeritus in the 1980s. In addition to his work on editions of Hugh MacDiarmid's Collected poems (1967), and A Drunk man looks at the thistle (1971), Weston published a Robert Burns: selections (1967). Throughout the period working on the MacDiarmid editions, he kept in contact with the poet and assisted in MacDiarmid's visit to the USA, to Massachusetts, in 1967."
+
+Processing Information
+'Catalogued by Graeme D. Eddie, 22 March 2016.'
+

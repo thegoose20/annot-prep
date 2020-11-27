@@ -1,0 +1,13 @@
+ID:Coll-1370
+Collection, Sub-collection, and Item IDs
+'Coll-1370'
+
+Scope and Contents
+'Heavily annotated Outlines of Mechanical Philosophy with inserts, bearing extensive manual revisions from as late as 1803.'
+
+Biographical / Historical
+'John Robison (1739-1805) was Professor of Natural Philosophy at the University of Edinburgh from 1774-1805. He lectured on a broad range of scientific subjects including mechanics, hydrodynamics, astronomy, optics, electricity and magnetism, introducing a good deal of mathematical demonstration.'
+
+Processing Information
+'Catalogued by Duncan Fisher12 May 2002 for the NAHSTE project Updated, Grant Buttars 16 May 2012'
+

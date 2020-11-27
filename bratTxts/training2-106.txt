@@ -1,0 +1,13 @@
+ID:Coll-1253
+Collection, Sub-collection, and Item IDs
+'Coll-1253'
+
+Scope and Contents
+"The material consists of Young's Midwifery - spine title - being lectures on Midwifery given by Professor Thomas Young. There is no identifiable date. The introductory page notes the content as Lectures on Midwifery by Thos. Young M.D. Professor of Midwifery in the University of Edinburgh There are two volumes, with Volume 1 containing 403 pp. numbered and a contents list, and Volume 2 containing 409 pp. numbered. There is no indication of the name of the note-taking student."
+
+Biographical / Historical
+"Thomas Young was probably born in 1725. By the summer of 1751, Young was practicing surgery in Edinburgh. In 1756 he was appointed Professor of Midwifery at Edinburgh University - only the third holder of that Chair, after Robert Smith and Joseph Gibson, the first holder. Young was the first Professor of Midwifery at Edinburgh to actually lecture on the subject of obstetrics. He also had an association with Edinburgh's Royal Infirmary. Professor Thomas Young died 5 February 1783 at the age fifty-seven."
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+

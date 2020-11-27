@@ -1,0 +1,13 @@
+ID:Coll-544
+Collection, Sub-collection, and Item IDs
+'Coll-544'
+
+Scope and Contents
+'The collection is composed of notes mainly on Egyptian hieroglyphics, including studies for a dictionary of hieroglyphics. In addition to the volumes and boxed notebooks there are a number of folded documents and miscellaneous manuscripts.'
+
+Biographical / Historical
+"James Richardson had been an Egyptologist. He died in 1877. Egyptology is the study of pharaonic Egypt, spanning the period circa 4500 BC to AD 641. Egyptology began when the scholars accompanying Napoleon Bonaparte's invasion of Egypt (1798-1801) published Description de l'Egypte (1809-28), which made large quantities of source material about ancient Egypt available to European scholars. Written Egyptian documents date to circa 3350 BC when the first pharaohs developed a writing system employing characters in the form of pictures. These individual signs, called hieroglyphs, may be read either as pictures, as symbols for pictures, or as symbols for sounds. The name 'hieroglyphic' (from the Greek word for 'sacred carving') is first encountered in the writings of Diodorus Siculus in the 1st century BC."
+
+Processing Information
+No description provided 
+
