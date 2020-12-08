@@ -1,0 +1,13 @@
+ID:Coll-731
+Collection, Sub-collection, and Item IDs
+'Coll-731'
+
+Scope and Contents
+'The collection is composed of typescript and manuscript lecture notes on banking, including material on the Bank of England, and the history of banking.'
+
+Biographical / Historical
+'John H. Lockie C.B.E. was a Lecturer in Banking at Edinburgh University. He was also a member of the Friends of Edinburgh University Library.'
+
+Processing Information
+No description provided 
+

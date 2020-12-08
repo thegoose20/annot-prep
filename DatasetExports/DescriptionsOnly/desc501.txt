@@ -1,0 +1,10 @@
+''
+
+
+"Contained within 2 x boxes bearing the information, VU 074 / N. Hamilton-Smith / Edinburgh R.C.C. and with additional information that the boxes contain Tapes 2 and 3 with 'lines 1-712' and 'lines 713-end' respectively, two reels of punched paper computer data. The lines are of Golagros and Gawane."
+
+
+"In its early years, the ERCC or Edinburgh Regional Computing Centre (later Edinburgh University Computing Services, and then Information Services) provided both systems support and project management for projects with companies such as Barclay's Bank and British Gas. ERCC and other early University computing entities were staffed primarily by physicists who wanted to advance their theoretical research and also embraced the idea of working with industry partners. One of the early Directors of the ERCC was Dr. G. E. (Tommy) Thomas, appointed in 1966. In the 1960s too, many computer scientists recognised the use of computers in literary and linguistic research.A significant hub of the ERCC was located at Bush between the late 1970s and the early 1990s, with a mainframe computer running the unique Edinburgh Multi Access System (EMAS) operating system. The ERCC supported the introduction of the IMP80 standard which had been a consolidation of the diverged Edinburgh IMP and IMP7. Edinburgh IMP was a development of ATLAS Autocode.2004 saw the retiral of Neil Hamilton-Smith who had arrived at Edinburgh University's Computing Services in August 1967 as a trainee programmer. In 1977, he was involved in the Edinburgh ALGOL language manual update. W With an interest in the use of the computer in literary and linguistic research, he also wrote about CONCORD which was a concordance program developed in 1968 to identify and sort collocating words or phrases. His broad knowledge assisted in his production of a monthly ERCC newsletter for many years."
+
+
+'Catalogued by Graeme D. Eddie 23 April 2015'

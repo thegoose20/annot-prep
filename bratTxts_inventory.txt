@@ -1,0 +1,17 @@
+README
+
+bratTxts: directory of text files for annotation in brat (one file per page in brat)
+
+789 files, each of one collection, for annotation
+  - 592 files of training data
+  - 197 files of development data
+
+Summary Statistics
+  - Sentences: 77,093
+  - Words: 1,279,713
+  - Average Sentences per File: 97.7
+  - Feminine Titles: 1631 (28.887708111937656%)
+  - Feminine Pronouns: 4131 (25.792957042957042%)
+  - Masculine Titles: 4015 (71.11229188806234%)
+  - Masculine Pronouns: 11882 (74.18831168831169%)
+  - Both Pronouns: 3 (0.018731268731268732%)

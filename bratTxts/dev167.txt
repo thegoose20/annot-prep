@@ -1,0 +1,13 @@
+ID:Coll-1041
+Collection, Sub-collection, and Item IDs
+'Coll-1041'
+
+Scope and Contents
+'The Papers of Professor James Robertson consist of notes on oriental languages.'
+
+Biographical / Historical
+"James Robertson was born in the parish of Cromarty in 1714. He studied at Aberdeen and then at Leyden University where he graduated in January 1749. At Leyden he had studied under Albert Schultens, the Dutch orientalist. He next went to Oxford studying Hebrew under Thomas Hunt. Robertson was offered the Chair of Hebrew in Doddridge's Theological Academy in Northampton, but instead became Professor of Hebrew at Edinburgh University on 25 June 1751 backed by a testimonial from Schultens. He compiled the Grammatica linguae Hebraeae (1758) and later on published The resemblance of Jesus to Moses considered (1765), and Clavis Pentateuchi (1770), the latter of which was a critical analysis of the Hebrew version of the Pentateuch. Between the years 1763 and 1785, Robertson was also the University Librarian and with a small team he compiled the Library's first alphabetical catalogue. James Robertson retired from the Chair of Hebrew in 1792. After some years of physical infirmity, he died at Middlefield, Leith, in Edinburgh, on 26 November 1795."
+
+Processing Information
+No description provided 
+

@@ -1,0 +1,9 @@
+P.Oxy
+
+'P.Oxy.905', 'P.Oxy.1609', 'P.Oxy.1486', 'P.Oxy.1424', 'P.Oxy.51', 'P.Oxy', 'P.Oxy.1807', 'P.Oxy.1563', 'P.Oxy.97', 'P.Oxy.14', 'P.Oxy.896', 'P.Oxy.906', 'P.Oxy.1199', 'P.Oxy.100', 'P.Oxy.337', 'P.Oxy.376', 'P.Oxy.204', 'P.Oxy.309', 'P.Oxy.1106'
+
+
+'18 documents, part of a collection distributed round multiple institutions globally.', 'Fragment containing portions of eighteen lines from an elegiac poem. There is a reference to a well-known passage of the Iliad in one of the couplets.The script is a clear upright uncial, which may be assigned to the second century. There is a very deep margin (7.8 cm) at the top of the column, perhaps intended for scholia.', 'A report addressed to the strategus of the nome by a public physician, stating that, in accordance with the instructions of the strategus to examine into the cause of death which had taken place and present a report, he had visited the house and seen the body.The papyrus is written in a very cursive sloping hand.'
+
+
+'The Oxyrhynchus Papyri are a group of manuscripts discovered during the late nineteenth and early twentieth centuries by papyrologists Bernard Pyne Grenfell and Arthur Surridge Hunt at an ancient rubbish dump near Oxyrhynchus in Egypt.'

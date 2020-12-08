@@ -1,0 +1,10 @@
+''
+
+
+"The 5 x slips (fragments) were discovered by cataloguing staff inside earlier Edinburgh University theses. They are handwritten in ink. The fragments are: - a note of page references with some remarks relating to a medical text - a list of theses sent either by or to Prof. Christison, Edinburgh College, 26 July 1844 - with the names Vass, Anderson, Chepmell, Etherington, Fleming, Jones - a note dated 14 August 1844 certifying permission of Mr. Syme, Dean of the Faculty of Medicine, for John Richard Wardale to borrow his thesis on the epidemic fever - a note dated 17 August 1844 stating that 'Rec'd from Mr. Brown my thesis. Thomas McLee' - a note stating, 'Received from Mr. Small, Librarian to the University of Edinburgh, the original copy of my thesis on Insanity which I bind myself to return within fourteen days of the present date, Aug. 7th 1844. thomas Cumpston Jones M.D. Ruthin, Denbighshire, North Wales"
+
+
+"According to the work entitled A catalogue of the graduates in the faculties of Arts, Divinity, and Law, of the University of Edinburgh, since its foundation, published in Edinburgh, by Neil and Co. in 1858, the students and the theses referred to in this collection are: - Wardell, Joannes Ricardus - Anglus - 'On the Edinburgh Epidemic Fever of 1843' - 1844 - Jones, Thomas Cumpston - Anglus - 'On insanity' - 1844 - Vass, Jacobus - Scotus - 'On Erysipelas' - 1844 - Anderson, Joannes Gulielmus Johnsten - Scotus - 'On the action and curative properties of gallic acid' - 1844 - Chepmell, Eduardus Carolus - Anglus - 'On dietetic observances, with a view to the maintenance of physical and mental health' - 1844 - Fleming, Alexander - Scotus - 'An historical and experimental inquiry into the physiological and medicinal properties of the Aconitum Napellus' - 1844 - Jones, Fredericus Denbigh - Anglus - 'On the phenomenon produced by the actions of narcotic poisons' - 1844"
+
+
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
