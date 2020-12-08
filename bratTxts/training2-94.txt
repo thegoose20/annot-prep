@@ -1,0 +1,13 @@
+ID:Coll-1265
+Collection, Sub-collection, and Item IDs
+'Coll-1265'
+
+Scope and Contents
+"At E2010.16 there is an 'autograph letter signed' from Thomas Lyle to John Aitken at Gayfield Square, Edinburgh, dated 28 May 1827. The letter is concerned with Lyle's compilation Ancient ballads and songs and how, having received 'notice from Mr. Lumisden', he is aware of Aitken's 'willingness to suggest a few amendments and additions to the Lyrical MS'. Lyle has heard much about 'Mr Aitken's abilities, from Glasgow friends', and would regard 'any little assistance' while the 'work is going through the press' to be 'a particular favour'."
+
+Biographical / Historical
+'The Scottish poet and physician was born in Paisley on 10 September 1792. He was educated at Glasgow University and was awarded a diploma in surgery there in 1816. He practised at Airth in Stirlingshire, central Scotland, and in Glasgow. Lyle also wrote poetry and lyrics and is remembered for the song Let us haste to Kelvin Grove, bonnie lassie, O published anonymously in 1820. He edited Ancient ballads and songs (1827). Thomas Lyle died in Glasgow on 19 April 1859.'
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+

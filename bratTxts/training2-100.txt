@@ -1,0 +1,13 @@
+ID:Coll-1259
+Collection, Sub-collection, and Item IDs
+'Coll-1259'
+
+Scope and Contents
+"At E87.71 there is a letter of Chalmers written at the 'Office for Trade, Whitehall' on 21 July 1788, to the sister of 'the late Mr. Richardson of Kensington' (William Richardson). The letter refers to his objective of doing 'justice to the memory of' Richardson, and goes on to mention the 'essay on the causes of the decline of Foreign trade, which I think was written by Mr. Richardson'. In the letter he says that the essay 'is very generally attributed to Sir Matthew Decker'. He hopes though that he might be informed 'of some facts and circumstances which would enable' him to settle the 'doubtful point in favour' of the woman's brother. He asks if she knows of any papers remaining 'which prove that Mr. Richardson wrote this essay, or anything else'. Sir Matthew Decker, 1st Baronet (1679-1749) was an English merchant and writer on trade, an MP, and director of the East India Company."
+
+Biographical / Historical
+"George Chalmers was born in Fochabers, in Moray, in 1742, and was educated in Fochabers and at King's College, Aberdeen. He studied Law at Edinburgh University. At the age of twenty-one he travelled with his uncle to America, to Maryland, and he practised law in Baltimore. On the outbreak of the American Civil War he returned to Britain, settling in London in 1775 where he began writing chiefly on political and colonial matters. In 1786 he was appointed to the Board of Trade as 'chief clerk of the committee of privy council for trade and foreign plantations'. He then turned to writing biography, publishing on Daniel Defoe, Thomas Paine and Thomas Ruddiman (Scottish grammarian and printer). In the 1800s he turned to the poetry and history of Scotland publishing poems of Allan Ramsay and Sir David Lyndsay. His works included: Annals of the present United Colonies (1780), Three tracts on Ireland (1785), Life of Daniel De Foe (1786), The poems of Allan Ramsay, with a Life of the author (1800), Caledonia starting in 1807, and Life of Mary Queen of Scots, drawn from the State Papers, with six subsidiary memoirs (1818). George Chalmers died on 31 May 1825."
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+
