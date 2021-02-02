@@ -2,6 +2,16 @@
 
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
+[Click here](https://mybinder.org/v2/gh/thegoose20/annot-prep/7be06f89cc3ce54a3f50714ddf8945bc20ac70da) to run the Jupyter Notebooks in MyBinder
+
+### The *.ipynb* Files
+
+**Description:** Jupyter Notebooks for harvesting, transforming and analysing text in the bratTxts and DatasetExports folders.
+
+### The *bratTxts* Folder
+
+**Description:** Plaintext files that will be uploaded to brat, a web-based annotation tool, for sentence-level gendered language labeling.
+
 ### The *DatasetExports* Folder
 
 **Description:**
