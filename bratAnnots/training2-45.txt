@@ -1,0 +1,13 @@
+ID:Coll-1322
+Collection, Sub-collection, and Item IDs
+'Coll-1322'
+
+Scope and Contents
+"The collection is composed of: This is one of only two examples of Goethe's life-mask. It had been sent to Thomas Carlyle by J. P. Eckermann and hung in Carlyle's home for many years. On Carlyle's death it was presented to David Masson, Professor of Rhetoric and English Literature at Edinburgh, and on his death was given by the Masson family to Professor Hume Brown who in turn bequeathed it to Edinburgh University in 1918. Letter dated Weimar 17 June 1913 written by (possibly) Dr. W. Oettingen which indicates the origin of the mask, stating that it is a life-mask rather than a death-mask. Letter dated Edinburgh 25 April 1920 from A. Carlyle to the Librarian, F. C. Nicholson, Edinburgh University Library, indicating that there is incertainty as to when 'my Uncle came into possession of the Goethe Mask'. Letter dated London 28 April 1920 from Rosaline Masson to the Librarian, F. C. Nicholson, Edinburgh University Library, indicating uncertainty as to how the mask came into Carlyle's possession."
+
+Biographical / Historical
+"This collection item is often described as a death-mask. It is not a death-mask, rather it is a life-mask made from a mould taken from the living face of Johann Wolfgang von Goethe. The a German writer, pictorial artist, biologist, theoretical physicist, and polymath Johann Wolfgang von Goethe was born on 28 August 1749 in Frankfurt-am-Main, Hessen, Germany. His work spanned the fields of poetry, drama, prose, philosophy, and science. Goethe was one of the key figures of German literature and the movement of Weimar Classicism in the late 18th and early 19th centuries. His influential ideas on plant and animal morphology and homology were extended and developed by 19th century naturalists including Charles Darwin. In politics Goethe was conservative and he served as a Privy Councillor of the Duchy of Saxe-Weimar. Goethe's influence spread across Europe, and for the next century his works were a major source of inspiration in music, drama, poetry and philosophy. Goethe's works included: Faust which has been called the greatest long poem of modern European literature; Wilhelm Meister's Apprenticeship, and The Sorrows of Young Werther. Johann Wolfgang von Goethe died in Weimar on 22 March 1832. Carl Gottlieb Weisser (also Gottlob Weiser) was born in Berlin on 21 August 1779. He took a life-mask of Johann Wolfgang von Goethe possibly on 13 October 1807 for the phrenologist F. J. Gall, who visited Goethe at Weimar. Carl Gottlieb Weisser died in Weimar on 2 April 1815."
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+

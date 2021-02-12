@@ -1,0 +1,19 @@
+T1	Gendered-Pronoun 564 566	He
+T2	Gendered-Pronoun 698 700	He
+T3	Gendered-Pronoun 721 723	he
+T4	Gendered-Pronoun 1027 1029	he
+T5	Gendered-Pronoun 1184 1186	he
+T6	Gendered-Pronoun 1222 1225	her
+T7	Gendered-Pronoun 1245 1248	her
+T8	Gendered-Pronoun 1261 1263	he
+T9	Gendered-Pronoun 1301 1303	he
+T10	Gendered-Pronoun 1592 1595	her
+T11	Gendered-Pronoun 1621 1624	her
+T12	Gendered-Role 1870 1878	daughter
+T13	Omission 1882 1904	Marjory Kennedy-Fraser
+#1	AnnotatorNotes T13	Marjory Kennedy-Fraser was a Scottish singer, composer and music teacher, so that's likely why her relationship is included here.
+T14	Gendered-Pronoun 2027 2030	her
+T15	Gendered-Pronoun 1906 1909	She
+T16	Gendered-Role 2031 2039	daughter
+T17	Gendered-Role 2068 2076	mother's
+T18	Omission 2000 2104	Marjory Kennedy-Fraser and her daughter Patuffa used to present the mother's collected songs in recitals

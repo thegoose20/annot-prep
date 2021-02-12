@@ -1,0 +1,13 @@
+ID:Coll-1289
+Collection, Sub-collection, and Item IDs
+'Coll-1289'
+
+Scope and Contents
+"This fragment of notes relates to pp.1419-1574 of The third volume of Chronicles beginning at duke William the Norman, commonlie called the Conqueror […] first compiled by Raphaell Holinshed, and by him extended to the yeare 1577 and to the content and omissions in these pages. The Holinshed copy in question was previously in the library of the Earl of Macclesfield and was acquired by Edinburgh University Library through dispersal auction sales of recent years. The three volume 'Holinshed Chronicles' - contained in 2 bound volumes - has local Special Collections shelfmark RB.FF.25-26. The fragment was contained in volume I."
+
+Biographical / Historical
+"The second edition of Holinshed's history of Britain was the edition used by William Shakespeare as the principal source for his histories and also for Macbeth. The printing history of this work is of particular interest. In February 1587, the printers were ordered by the Privy Council and the Archbishop of Canterbury to delete nine passages that contained objectionable accounts of recent history - three in volume II (Scotland), six in volume III (England). The Privy Council censored text, but of course the printers had to cancel whole leaves, 82 leaves in all. Most surviving copies of the work were duly 'castrated' to order, and cancels (only twelve of them) were inserted to bridge the gaps. In the eighteenth century the original text was reprinted three times from an 'uncastrated' copy or copies, and after 1722 or 1723 these reprinted leaves were generally used to complete later-bound collectors' sets in facsimile. As an interesting aside, some original leaves could escape the Privy Council knife, as in one instance in this Edinburgh University Library copy, where in volume III, there are untouched leaves relating to a report of English support for the Duke of Alençon's departure in 1582 to assume sovereignty of Zeeland. This was an unhappy episode which was to mark a failure in Elizabeth's policy in the Low Countries. The cancel is said to reduce the report from 362 lines to 12. This Edinburgh copy also includes 4 of the original 1587 cancel leaves inserted loose alongside their 18th century facsimile replacements (representing, in volume II, pp. 421, 424, 438, 431, 443, 444, 445 and 450)."
+
+Processing Information
+'Compiled by Graeme D. Eddie, Edinburgh University Library, Special Collections.'
+

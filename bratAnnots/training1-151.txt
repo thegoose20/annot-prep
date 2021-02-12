@@ -1,0 +1,13 @@
+ID:Coll-1478
+Collection, Sub-collection, and Item IDs
+'Coll-1478'
+
+Scope and Contents
+"This 12pp manuscript (in contemporary marbled wrappers) of a copy of Bower's escape appears to date from after 1763, and could have been the work of a young person copying out the text as an advanced form of exercise. It does not include a final short paragraph found in other copies of this manuscript, but it is the only one containing verses at the end of the document. Written on the inside front wrapper is the name: F. or T. Coole, or Hoole. The manuscript is headed: 'A BRIEF ACCOUNT / of / Mr Bowers Escape / From the Inquisition / Taken from his own Mouth / BY A LADY Along with the manuscript there is a report/letter dated 13 August 1998 from the Assistant Keeper, British Library, Department of Manuscripts, to a previous owner of the manuscript"
+
+Biographical / Historical
+"A copy from perhaps 1763 of the manuscript account of the escape of Archibald Bower (1686-1766), a Scottish historian, from the Inquisition, 'Taken from his own mouth, by a Lady'. Archibald Bower was born at or near Dundee in 1685-1686. He was educated at the Scots College, Douai, which had been established in 1594 for the training of Scottish Roman Catholic exiles. Afterwards he went to Rome, and was admitted into the Society of Jesus (the Jesuits) in 1706. Bower then spent time in Fano, Arezzo, Florence, Macerata, and Perugia. The reasons for his flight from Perugia in 1726 are varied. Some say that he had been caught with a nun, but Bower himself said that it was because of the terrible proceedings of the Court of the Inquisition at Macerata, in which he said that he was counsellor or judge. He later returned to the Church of England. His own manuscript account of his escape had circulated in a number of versions during the eighteenth century. Archibald Bower died on 3 September 1766, and was buried in Marylebone churchyard."
+
+Processing Information
+'Catalogued by Graeme D. Eddie 02 August 2013'
+

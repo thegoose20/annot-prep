@@ -1,0 +1,13 @@
+ID:GD29
+Collection, Sub-collection, and Item IDs
+'GD29'
+
+Scope and Contents
+"The collection consist of: notebook of geometry exercises from Duns Academy, 1820, with additional algebra exercises loosely inserted; notebook of student exercises mainly on Latin authors and grammar, 1821-1822; notes of the lectures by Cunningham taken down by Walker, Norman M. D. L., 1844-1845, with a letter from Walker's son, Sir Norman Walker, 1931, loosely inserted; 2 volumes of lectures on apologetics, delivered to students in theology at the Free Church College (the New College), Edinburgh, 1844-1848; lectures on church history, 1845-1855; other lectures, 1847-1854; copies of lectures, mainly on doctrinal history, 1846-1860; notebook listing the books in Principal Cunningham's library; and 2 volumes by Thomas Chalmers, and Johann Lorenz von Mosheim, with annotations by Cunningham."
+
+Biographical / Historical
+'William Cunningham was born in 1805 in Hamilton. He received his early education in Duns, Berwickshire, and he studied at Edinburgh University. He was licensed in 1828 and ordained as a Minister, at the Middle Church, Greenock, in 1830. In 1843 he was appointed by the General Assembly of the Free Church to one of the Chairs of Theology at New College, Edinburgh, and earlier, in 1842, he received the degree of D.D. from Princeton, New Jersey. In 1845, Cunningham became Professor of Church History at New College, and in 1847 he was made Principal. He died on 14 December 1861.'
+
+Processing Information
+No description provided 
+

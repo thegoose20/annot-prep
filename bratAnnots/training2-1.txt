@@ -1,0 +1,13 @@
+ID:Coll-1402
+Collection, Sub-collection, and Item IDs
+'Coll-1402'
+
+Scope and Contents
+'The manuscript volume of Oriya grammar and vocabulary has around 200pp. Some pages contain English translations with accompanying Oriya vocabulary. The translations are of tales and background to Orissa, while others are Biblical passages, and the Oriya vocabulary relates to these.'
+
+Biographical / Historical
+'Oriya is an Indian language and one of the many official languages in India. It belongs to the Indo-Aryan branch of the Indo-European language family. It is mainly spoken in the Indian states of Orissa and in parts of West Bengal, Jharkhand, Chhattisgarh and Andhra Pradesh. It is the official language and predominant language of Orissa, where Oriya speakers comprise around 83.33% of the population, and it is the second official language of Jharkhand.'
+
+Processing Information
+'Catalogued by Graeme D. Eddie 07 December 2012'
+
