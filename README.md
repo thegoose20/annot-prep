@@ -8,7 +8,7 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 
 [Click here](https://mybinder.org/v2/gh/thegoose20/annot-prep/7be06f89cc3ce54a3f50714ddf8945bc20ac70da) to run the Jupyter Notebooks in MyBinder.
 
-### The *data_to_ann.zip* Folder
+### The *data_to_ann.zip* Directory
 
 **Description:** Plaintext files that will be uploaded to brat, a web-based annotation tool, for sentence-level gendered language labeling by five annotators.
 
@@ -21,6 +21,7 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 * Latest written metadata description date: 2020
 
 **Summary Statistics:**
+
 *Estimates calculated using Natural Language Toolkit's (NLTK) `word_tokenize` and `sent_tokenize`*
 * Characters: 13,739,019
 * Tokens: 2,754,044
@@ -28,4 +29,14 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 * Words without Metadata Field Names: 1,273,237
 * Sentences: 156,124
 * TXT Files: 3,649
-*There will be one ANN file per TXT file with annotation labels, totalling 7,298 files
+* Fonds (archival collections): 1,081
+
+*There will be one ANN file per TXT file with annotation labels, totalling 7,298 files*
+
+### The CRC_units-grouped-by-fonds.csv File
+**Description:** Additional metadata fields for every fonds in the data_to_ann.zip directory (1,081 rows total, one row per fonds), with six columns for:
+  * String of fonds-level identifiers (highest level of the archival hierarchy)
+  * List of unit identifiers (at the series, sub-series, and item (lowest level of the archival hierarchy) levels)
+  * List of unit dates
+  * List of units' associated geographic locations
+  * List of units' associated languages
