@@ -6,7 +6,7 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 
 **Description:** Jupyter Notebooks for harvesting, transforming and analysing text of metadata descriptions from the Centre for Research Collections online archival catalog, ArchivesSpace, prior to manual annotation.  Metadata field names include: an identifier (`<unitid>`), Title (`<title>`) Biographical / Historical (`<bioghist>`), Scope and Contents (`<scopecontent>`), and Processing Information (`<processinfo>`).
 
-[Click here](https://mybinder.org/v2/gh/thegoose20/annot-prep/7be06f89cc3ce54a3f50714ddf8945bc20ac70da) to run the Jupyter Notebooks in MyBinder.
+[Click here](https://mybinder.org/v2/gh/thegoose20/annot-prep/956048142f69acf3234b8a8cf8c58212034801f6) to run the Jupyter Notebooks in MyBinder.
 
 ### The *data_to_ann.zip* Directory
 
