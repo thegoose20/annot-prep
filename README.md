@@ -1,7 +1,5 @@
 # Annotation Preparation
 
-License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-
 ### The *.ipynb* Files
 
 **Description:** Jupyter Notebooks for harvesting, transforming and analysing text of metadata descriptions from the Centre for Research Collections online archival catalog, ArchivesSpace, prior to manual annotation.  Metadata field names include: an identifier (`<unitid>`), Title (`<title>`) Biographical / Historical (`<bioghist>`), Scope and Contents (`<scopecontent>`), and Processing Information (`<processinfo>`).
@@ -40,3 +38,31 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
   * List of unit dates
   * List of units' associated geographic locations
   * List of units' associated languages
+
+### Associated Resources
+
+* Data source: [Archives Online, Centre for Research Collections, University of Edinburgh](archives.collections.ed.ac.uk)
+* Dataset annotation repository: [annot](https://github.com/thegoose20/annot)
+* Publications:
+  * Research methodology: [Situated Data, Situated Systems: A Methodology to Engage with Power Relations in Natural Language Processing Research](https://aclanthology.org/2020.gebnlp-1.10/)
+
+### License and Citation
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+```
+@inproceedings{havens-etal-2020-situated,
+    title = "Situated Data, Situated Systems: A Methodology to Engage with Power Relations in Natural Language Processing Research",
+    author = "Havens, Lucy  and
+      Terras, Melissa  and
+      Bach, Benjamin  and
+      Alex, Beatrice",
+    booktitle = "Proceedings of the Second Workshop on Gender Bias in Natural Language Processing",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.gebnlp-1.10",
+    pages = "107--124",
+    abstract = "We propose a bias-aware methodology to engage with power relations in natural language processing (NLP) research. NLP research rarely engages with bias in social contexts, limiting its ability to mitigate bias. While researchers have recommended actions, technical methods, and documentation practices, no methodology exists to integrate critical reflections on bias with technical NLP methods. In this paper, after an extensive and interdisciplinary literature review, we contribute a bias-aware methodology for NLP research. We also contribute a definition of biased text, a discussion of the implications of biased NLP systems, and a case study demonstrating how we are executing the bias-aware methodology in research on archival metadata descriptions."
+}
+```
